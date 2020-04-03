@@ -1,6 +1,6 @@
-![logo](Emptyset.png)
+![logo](Logo/Emptyset.png)
 
-# 小宝贝设定
+# 设定
 
 > 使用Docsify创造的小宝贝设定网站
 
