@@ -6,5 +6,6 @@
 * 基础设定
     * [战斗](基础设定\战斗.md)
     * [等级](基础设定\等级.md)
- 
+    * [觉醒](基础设定\觉醒.md)
+  
 Github:https://github.com/XYTxuyitao/Settings.git
